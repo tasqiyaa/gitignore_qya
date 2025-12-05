@@ -1,0 +1,32 @@
+/* Style dasar halaman */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f2f2f2;
+}
+
+/* Header */
+header {
+    background: #4c8bf5;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+/* Bagian Konten */
+.konten {
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    border-radius: 10px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #ddd;
+    margin-top: 30px;
+}
